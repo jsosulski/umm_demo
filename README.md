@@ -33,4 +33,21 @@ If you have a system jupyter notebook installation, you need to register the vir
 ipython kernel install --name "umm-venv" --user
 ```
 
-Now you can open the examples notebook and you should be able to run it.
+Now you can open the examples notebook and you should be able to run it:
+
+```bash
+jupyter notebook examples/
+```
+
+
+# Frequently asked questions
+
+### It says I am missing some umm.py file?
+
+You need to download the file in an extra step, as indicated at the top of this readme.
+
+### It says some "zip" file is not a zip?
+
+Unfortunately the dataset host sometimes stops transmission early and you are left with a corrup .zip file.
+To fix this go to the `~/mne_data/` directory, and either delete everything (not recommended) or find the "zip file" impostor and delete it.
+
