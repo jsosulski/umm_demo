@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "umm-demo"
+version = "0.1.0"
+description = ""
+authors = ["Jan Sosulski <mail@jan-sosulski.de>"]
+readme = "README.md"
+packages = [{include = "umm_demo"}]
+license = "BSD-3-Clause Clear"
+homepage = "https://github.com/jsosulski/umm_demo"
+repository = "https://github.com/jsosulski/umm_demo"
+include = [
+	"LICENSE"
+]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+# numpy = "^1.22.1"
+# Till new moabb release, use lower numpy version due to deprecated type aliases
+numpy = "<1.24"
+scikit-learn = "^1.0"
+toeplitzlda = "^0.2.6"
+scipy = "^1.8.0"
+pandas = "^1.4.0"
+mne = "^0.24.1"
+moabb = "^0.4.4"
+seaborn = "^0.11.2"
+statsmodels = "^0.13.2"
+jupyter = "^1.0.0"
+
+[tool.poetry.urls]
+"Preprint" = "TODO"
+
+[tool.black]
+line-length = 119
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
