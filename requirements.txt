@@ -104,8 +104,6 @@ toeplitzlda==0.2.6
 tornado==6.2
 tqdm==4.65.0
 traitlets==5.9.0
-# Editable Git install with no remote (umm-demo==0.1.0)
--e /home/jan/dev/python/umm_demo
 uri-template==1.2.0
 urllib3==1.26.15
 vg==2.0.0
