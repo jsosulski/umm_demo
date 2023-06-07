@@ -1,14 +1,12 @@
 # UMM
 
-Code to run UMM for different BCI ERP datasets.
+Code to run UMM for BCI ERP datasets.
 
 ## Disclaimer
 
-To be able to **run** these scripts, you need to request access to the core UMM code from [this page](https://todo.todo).
+To be able to **run** these scripts, you need to request access to the core UMM code from [this page](https://todo.todo) (No public link yet.).
 Note that a patent application for BCI applications using UMM has been submitted.
 For non-commercial purposes you are free to use the UMM algorithm.
-
-**JAN COMMENT: SOMEONE WITH LEGAL KNOWLEDGE SHOULD PROBABLY REWORD/REWRITE THE ABOVE**
 
 ## Setup
 
