@@ -2,11 +2,16 @@
 
 Code to run UMM for BCI ERP datasets.
 
-## Disclaimer
+## Important Disclaimer
 
 Please note, that a patent is pending for UMM.
 We want to encourage the pickup of UMM by a wide audience for non-commercial / academic purposes, but would like to keep track of potential commercial use of UMM.
-Thus to obtain the file, please drop an email to Jan or Michael with an indication, if you intend to use the software for non-commercial / academic or for commercial purposes.
+Thus to obtain the file containing the core algorithm, please drop an email to Jan or Michael with an indication, if you intend to use the software for non-commercial / academic or for commercial purposes.
+
+Michael: TODO
+
+Jan: ![Screenshot_20230609_061736](https://github.com/jsosulski/umm_demo/assets/2545339/7aa2393d-ffe6-4799-a05d-d57bf6894093)
+
 
 ## Setup
 
@@ -46,6 +51,6 @@ You need to download the file in an extra step, as indicated at the top of this 
 
 ### It says some "zip" file is not a zip?
 
-Unfortunately the dataset host sometimes stops transmission early and you are left with a corrup .zip file.
-To fix this go to the `~/mne_data/` directory, and either delete everything (not recommended) or find the "zip file" impostor and delete it.
+Unfortunately the dataset host sometimes stops transmission early and you are left with a corrupt .zip file.
+To fix this go to the `~/mne_data/` directory, and either delete everything (not recommended) or find the unfinished "zip file" impostor and delete it.
 
