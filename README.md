@@ -6,7 +6,7 @@ Code to run UMM for BCI ERP datasets.
 
 The source code for the core algorithm of Supervised Mean-difference Maximization (UMM) is protected by copyright of the Radboud University, the Netherlands, 2023. The source code may only be copied, used, published or implemented, for research or other purposes, under a license to be obtained from Radboud University. To obtain the code (umm.py), please send an email to either Jan or Michael that includes your name, affiliation and a statement, if you intend to use the software either for non-commercial / academic purposes or for commercial purposes.
 
-Michael: TODO
+Michael: ![Screenshot_2023_06_09](https://github.com/jsosulski/umm_demo/assets/8556638/7370abdf-9452-4727-a223-c70adfc1f6ce)
 
 Jan: ![Screenshot_20230609_061736](https://github.com/jsosulski/umm_demo/assets/2545339/7aa2393d-ffe6-4799-a05d-d57bf6894093)
 
