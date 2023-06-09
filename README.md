@@ -4,13 +4,13 @@ Code to run UMM for BCI ERP datasets.
 
 ## Disclaimer
 
-To be able to **run** these scripts, you need to request access to the core UMM code from [this page](https://todo.todo) (No public link yet.).
-Note that a patent application for BCI applications using UMM has been submitted.
-For non-commercial purposes you are free to use the UMM algorithm.
+Please note, that a patent is pending for UMM.
+We want to encourage the pickup of UMM by a wide audience for non-commercial / academic purposes, but would like to keep track of potential commercial use of UMM.
+Thus to obtain the file, please drop an email to Jan or Michael with an indication, if you intend to use the software for non-commercial / academic or for commercial purposes.
 
 ## Setup
 
-:warning: If you want to actually run the example notebook, you need to replace the file `umm_demo/classification/umm.py` with the version you can download above.
+:warning: If you want to actually run the example notebook, you need to replace the file `umm_demo/classification/umm.py` with the version you obtained from above.
 
 Create and activate a virtual environment using:
 
