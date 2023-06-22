@@ -4,7 +4,9 @@ Code to run UMM for BCI ERP datasets.
 
 ## Important Disclaimer
 
-The source code for the core algorithm of Unsupervised Mean-difference Maximization (UMM) is protected by copyright of the Radboud University, the Netherlands, 2023. The source code may only be copied, used, published or implemented, for research or other purposes, under a license to be obtained from Radboud University. To obtain the code (umm.py), please send an email to either Jan or Michael that includes your name, affiliation and a statement, if you intend to use the software either for non-commercial / academic purposes or for commercial purposes.
+The source code for the core algorithm of Unsupervised Mean-difference Maximization (UMM) is protected by copyright of the Radboud University, the Netherlands, 2023, and a patent is pending for UMM-based applications. The authors encourage the use of this code for non-commercial, not-for-profit and academic purposes. However, the source code may only be copied, published, or used for other purposes under a license that is to be obtained from Radboud University.
+
+To obtain the code (umm.py), please send an email with the subject _umm.py request_ to either Jan or Michael that states your name, affiliation and the information, if you intend to use the software either for non-commercial / academic purposes or for commercial purposes.
 
 Michael: ![Screenshot_2023_06_09](https://github.com/jsosulski/umm_demo/assets/8556638/7370abdf-9452-4727-a223-c70adfc1f6ce)
 
@@ -13,7 +15,7 @@ Jan: ![Screenshot_20230609_061736](https://github.com/jsosulski/umm_demo/assets/
 
 ## Setup
 
-:warning: If you want to actually run the example notebook, you need to replace the file `umm_demo/classification/umm.py` with the version you obtained from above.
+:warning: If you want to re-run the example notebook, you need to replace the mockup file `umm_demo/classification/umm.py` with the version of umm.py that you have obtained following the above description.
 
 Create and activate a virtual environment using:
 
